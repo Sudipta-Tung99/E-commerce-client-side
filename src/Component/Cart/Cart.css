@@ -1,0 +1,14 @@
+.cart-2{
+   
+    height: 40rem;
+    width: 25rem;
+    box-shadow: 2px 10px 18px darkgray;
+    background-color: rgb(124, 120, 120);
+    color: aliceblue;
+   
+}
+.cart-1{
+    text-align: left;
+    
+    width: 70rem;
+}
